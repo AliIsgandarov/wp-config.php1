@@ -12,7 +12,7 @@
 
 
 /* MySQL settings */
-Idefine( 'DB_NAME',     'wordpress' );
+define( 'DB_NAME',     'wordpress' );
 define( 'DB_USER',     'wp-user' );
 define( 'DB_PASSWORD', '12345' );
 define( 'DB_HOST',     'localhost' );
